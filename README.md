@@ -1,20 +1,18 @@
-# Portfolio React Project
+# Portfolio Project
 
 ## Overview
 
-This is a personal portfolio website built using React. The project showcases various sections including Home, About, Skills, Projects, Education, and Contact. It also features a responsive design, smooth scrolling, and interactive elements like a back-to-top button.
+This is a personal portfolio website built using HTML, CSS & JavaScript. The project showcases various sections including Home, About, Skills, Projects, Education, and Contact. It also features a responsive design, smooth scrolling, and interactive elements.
 
 ## Features
 
 - **Responsive Design:** Adaptable layout for different screen sizes.
 - **Smooth Scrolling:** Easy navigation between sections.
-- **Back-to-Top Button:** Quickly return to the top of the page.
-- **Dynamic Content:** React components for various sections.
 - **Interactive Icons:** FontAwesome icons for social media links and other elements.
 
 ## Technologies Used
 
-- **React:** JavaScript library for building user interfaces.
+- **JavaScript:** JavaScript for building interactive elements.
 - **FontAwesome:** Icon library for adding icons.
 - **CSS:** Styling for the components.
 - **HTML:** Structure of the web pages.
@@ -44,17 +42,16 @@ To get started with this project, follow these steps:
 This will start the development server and open the application in your default web browser.
 
 ## Project Structure
-- **public/:** Contains static assets like images and the index.html file.
-- **src/:** Contains React components, CSS files, and other JavaScript files.
-- **components/:** React components for different sections of the portfolio.
-- **App.js:** Main application component that includes all sections.
-- **App.css:** Global styles for the application.
-- **package.json:** Contains project metadata and dependencies.
+- **index.html/**: Main HTML file containing the structure of the website.
+- **style.css/**: Contains all styles for the project.
+- **script.js/**: JavaScript for interactive elements and smooth scrolling.
+- **images//**: Folder containing images used in the project.
+- **fontawesome//**: For adding custom icons using FontAwesome.
   
 ## Usage
 - **Home Section:** Introduction and personal greeting.
 - **About Section:** Information about the person and their background.
-- **Skills Section:** List of technical skills with progress bars.
+- **Skills Section:** List of technical skills.
 - **Projects Section:** Showcase of various projects.
 - **Education Section:** Details of educational background.
 - **Contact Section:** Contact form and social media links.
